@@ -3,7 +3,7 @@ var express = require('express');
 
 var fs = require('fs');
 
-var index_file = fs.readFileSync('bit/index.html');
+var index_file = fs.readFileSync('index.html');
 
 var buffer = new Buffer(index_file);
 
