@@ -3,8 +3,8 @@
     <head>
     <meta charset="utf-8">
     <title>My First Bitstarter</title>
-    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"        
-    <link href="css/bitstartup.css" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="/css/bootstrap.min.css">        
+    <link href="/css/bitstartup.css" rel="stylesheet" type="text/css">
     </head>
     <body>    	
     <div class="container">	
